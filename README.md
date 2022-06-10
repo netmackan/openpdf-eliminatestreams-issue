@@ -17,4 +17,4 @@ Sample keystore is a public snake-oil keystore from https://github.com/Keyfactor
 
 ## Results
 
-![Image of the 3 pages in the problematicly signed PDF](pdflib-duplicated-out-signed1.png)
+![Image of the 3 pages in the problematicly signed PDF](pdflib-duplicated-out-modified1-main.png)
